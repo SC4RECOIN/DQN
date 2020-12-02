@@ -1,2 +1,2 @@
-# DQN 🌶️
-DQN to spice up your rl
+# DDQN 
+Never know when you need a DDQN
